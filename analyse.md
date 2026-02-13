@@ -1,4 +1,5 @@
 # Analyse
+
 ## MoSCoW
 ### Must Have
 - inloggen met Spotify
@@ -17,3 +18,5 @@
 - Maak een jazzy/techno playlist met liedjes uit de jaren '90
 - Geef mij een nummer met dezelfde als Glue van Bicep
 - Geef mij een playlist met nostalgische nummers om op te dansen voor mensen uit begin de jaren 2000
+---
+## Use Cases
